@@ -1,4 +1,4 @@
 # primer
 Primer repo
-##descripción
+## descripción
 Este es una practica de un curso 
